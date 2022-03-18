@@ -12,10 +12,11 @@ Was ist für die Hard- und Software nötig?
 >Für die Software wird z.B. Win10-PRO, dbpoweramp und z.B. Twonky-Server benötigt. Win-PRO wegen RDP für die Einrichtung
  und die Netzwerkzugriffsmöglichkeit. Ich habe mir ein Billigst-Version von der Bucht geholt. 
  dbpoweramp: 	https://www.dbpoweramp.com/cd-ripper.htm
- Twonky-Server: 	https://www.lynxtechnology.com/twonky-server?msclkid=f5a266d1a6ca11ecb45ffec005fc0cb0
+ Twonky-Server: https://www.lynxtechnology.com/twonky-server?msclkid=f5a266d1a6ca11ecb45ffec005fc0cb0
  Kosten ca. € 100
 
- Win10: Installieren des WinOS, alles updaten, Autologin einrichten, Energiebelastung für Sperrbildschirmund HDD/SSD ausschalten
+ Win10: Installieren des WinOS, alles updaten, Autologin einrichten, Energiesparbetrieb für Sperrbildschirm und
+ 	HDD/SSD ausschalten
         Sinn ist, dass ich ohne Monitor, Maus und Tastatur bei längerer Nichtnutzung zugreifen kann ohne dass ich ein Passwort
         eingeben muss. Geben Sie für das Netzwerk einen Ordner für die späteren Musikdaten frei. Ich nutze z.B "media"
 
