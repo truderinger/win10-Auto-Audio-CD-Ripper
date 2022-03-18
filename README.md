@@ -1,9 +1,6 @@
 Hallo,
 
-hier zeige ich wie ein einfacher Audio-Musik-Server mit CD-Rip-Funktion zu realisieren ist. Für mich war es nicht nötig einen DAC in den
-Server einzubauen, da ich einen über USB laufenden DAC nutze. Auch wichtig war, dass ich den Server am Gehäuse einschalte und dieser dann
-in die Automatic-CD-Rip-Funktion (CD in Schublade, wird ausgelesen und wirft die CD wieder aus) geht. Nach Nutzung wieder auf den Gehäuseschalter
-und der Server fährt runter.
+hier zeige ich wie ein einfacher Audio-Musik-Server mit CD-Rip-Funktion zu realisieren ist. Die Frage stellte sich, eine Ausführung in Linux oder Windows. Linux kann mit Preempt-Kernel (Echtzeit) installiert werden. Jedoch hatte ich mit UDEV und einem Script für den Autostart von "abcde) Probleme. Daher zuerst mal in der Windowsversion.  Für mich war es nicht nötig einen DAC in den Server einzubauen, da ich einen über USB laufenden DAC nutze. Auch wichtig war, dass ich den Server am Gehäuse einschalte und dieser dann in die Automatic-CD-Rip-Funktion (CD in Schublade, wird ausgelesen und wirft die CD wieder aus) geht. Nach Nutzung wieder auf den Gehäuseschalter und der Server fährt runter.
 
 Was ist für die Hard- und Software nötig?
 
