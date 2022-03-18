@@ -22,7 +22,9 @@ Was ist für die Hard- und Software nötig?
 
 dbpoweramp: Vorab kann eine bestimmte Zeit ohne Lizenz getestet werden. Ich habe mir die Privat-Lizenz geholt (Kosten: ca. € 40). 
 		dbpoweramp-Software CD-Ripper installieren, im Anschluss dann das kostenfreie "CD-Ripp batch", ebenfalls von dbpoweramp
-		installieren. Die Datei "CD-Ripper batch" in den Autostartordner mit Link einfügen (Win+R und mit „shell:startup“). Eigenschaften vom 		      Link aufrufen und nach nach den Gänsefüsschen der "...batch.exe" -autorip einfügen. 
+		installieren. Die Datei "CD-Ripper batch" in den Autostartordner mit Link einfügen (Win+R und mit „shell:startup“). Eigenschaften 		  vom Link aufrufen und nach nach den Gänsefüsschen der "...batch.exe" -autorip einfügen. 
 
 Twonky-Server: Installation ist einfach und erklärt sich von selbst. Bitte Ordner nutzen, der bei Schritt Win10-Installation 
-		   gewählt wurde.   
+	       gewählt wurde.   
+	       
+Für dieie Schritte der Konfiguartation für den CD-Ripper und CD-Ripper-batch bitte selbst sorgen.
